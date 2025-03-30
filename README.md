@@ -27,9 +27,7 @@ This tool is for **educational purposes only**. Use it **only** for ethical pene
 ### 🛠️ Installation & Usage
 #### 📱 For Termux:
 ```sh
-
-first clone it
-
+git clone https://github.com/CodingChatRoom/DarkWolfPhisher.git
 cd DarkWolfPhisher
 chmod +x install.sh
 ./install.sh
@@ -38,8 +36,7 @@ python3 darkwolf.py
 
 #### 🐧 For Kali Linux:
 ```sh
-first clone it
-
+git clone https://github.com/CodingChatRoom/DarkWolfPhisher.git
 cd DarkWolfPhisher
 chmod +x install.sh
 ./install.sh
