@@ -31,6 +31,9 @@ git clone https://github.com/CodingChatRoom/DarkWolfPhisher.git
 cd DarkWolfPhisher
 chmod +x install.sh
 ./install.sh
+pip install pyfiglet
+pip install colorama
+pip install rich
 python3 darkwolf.py
 ```
 
